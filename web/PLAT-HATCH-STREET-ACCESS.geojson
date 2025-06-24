@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "PLAT-HATCH-STREET-ACCESS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "Layer": "PLAT-HATCH-STREET-ACCESS", "SubClasses": "AcDbEntity:AcDbHatch", "ExtendedEntity": "     5      2", "Linetype": null, "EntityHandle": "F90", "Text": "ANSI31" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -10859460.863566674292088, 3005252.202354789711535 ], [ -10859472.916826874017715, 3005264.187039831187576 ], [ -10859597.258758561685681, 3005137.768185044638813 ], [ -10859585.205500740557909, 3005125.783713390585035 ], [ -10859460.863566674292088, 3005252.202354789711535 ] ] ] ] } }
+]
+}
