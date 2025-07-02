@@ -1,61 +1,91 @@
 #!/usr/bin/env bash
-# build_layers.sh  –  DXF ➜ GPKG ➜ GeoJSON export
+# ---------------------------------------------------------------------------
+# build_layers.sh – DXF ➜ GeoPackage ➜ GeoJSON exporter for Lago Bello
 #
-# Default:  *no* gzip (plain .geojson for GitHub Pages & OL)
-# Optional: pass --gzip to also write .gz files
+# • Creates   <input>.gpkg   (EPSG:2279 – Texas South ft)
+# • Writes    <layer>.geojson for every DXF layer that contains HATCH
+#   elements (detected via SubClasses LIKE '%Hatch%').
+#   – We run ogr2ogr first → if resulting file is empty, we delete it.
+# • Writes    <basename>_non_hatch.geojson for everything else.
+# • Optional  --gzip   adds .gz copies.
 #
 # usage: ./scripts/build_layers.sh path/to/file.dxf [--gzip]
+# ---------------------------------------------------------------------------
 
 set -euo pipefail
 
-# -------- parse args ---------------------------------------------------------
+[[ $# -lt 1 ]] && { echo "Usage: $0 path/to/file.dxf [--gzip]"; exit 1; }
+
+SRC_DXF=$1
 GZIP_OUTPUT=0
 [[ "${2-}" == "--gzip" ]] && GZIP_OUTPUT=1
 
-SRC_DXF=${1:? "Usage: $0 path/to/source.dxf [--gzip]"}
-GPKG="lagobello.gpkg"
+# ---------- paths -----------------------------------------------------------
+BASENAME="$(basename "$SRC_DXF" .dxf)"
+DIRNAME="$(dirname  "$SRC_DXF")"
+GPKG="${DIRNAME}/${BASENAME}.gpkg"
 WEBDIR="web"
-SRS_IN="EPSG:2279"     # South Texas State Plane
-SRS_OUT="EPSG:3857"    # Web Mercator
 
-# Update this list whenever you add a new hatch layer in CAD
-HATCH_LAYERS=(
-  PLAT-HATCH-CAMINATA
-  PLAT-HATCH-CAMINATA-PROPOSED
-  PLAT-HATCH-FOUNTAIN
-  PLAT-HATCH-LOTS
-  PLAT-HATCH-STREET
-  PLAT-HATCH-STREET-ACCESS
-  PLAT-HATCH-STREET-RESERVE
-)
+SRS_IN="EPSG:2279"   # Texas South ft
+SRS_OUT="EPSG:3857"  # Web-Mercator
 
-# -------- rebuild GPKG -------------------------------------------------------
-echo ">> Re-creating $GPKG from $(basename "$SRC_DXF")"
+mkdir -p "$WEBDIR"
+
+# ---------- build GeoPackage -----------------------------------------------
+echo ">> Creating ${GPKG}"
 rm -f "$GPKG"
 ogr2ogr -f GPKG "$GPKG" "$SRC_DXF" \
         -a_srs "$SRS_IN" -nlt PROMOTE_TO_MULTI \
         -lco GEOMETRY_NAME=geom
 
-mkdir -p "$WEBDIR"
+# ---------- discover layers with HATCH elements ----------------------------
+echo ">> Detecting HATCH layers …"
+readarray -t HATCH_LAYERS < <(
+  ogrinfo -ro -q "$GPKG" entities \
+     -dialect SQLite \
+     -sql "SELECT DISTINCT Layer FROM entities WHERE SubClasses LIKE '%Hatch%'" |
+  awk -F'= ' '/Layer \(String\)/{
+       gsub(/"/,"",$2);  gsub(/^[[:space:]]+|[[:space:]]+$/,"",$2);
+       print $2
+  }' | sort
+)
 
-# -------- export one GeoJSON per HATCH layer ---------------------------------
-echo ">> Exporting hatch layers"
+if [[ ${#HATCH_LAYERS[@]} -eq 0 ]]; then
+  echo "   • No hatch layers found – nothing to export individually."
+else
+  echo "   • Found ${#HATCH_LAYERS[@]} hatch layers:"
+  printf '     - %s\n' "${HATCH_LAYERS[@]}"
+fi
+
+# ---------- export each candidate layer, keep only if non-empty ------------
 for LAYER in "${HATCH_LAYERS[@]}"; do
-  OUT="$WEBDIR/${LAYER}.geojson"
-  echo "   • $LAYER → $(basename "$OUT")"
-  ogr2ogr -f GeoJSON "$OUT" "$GPKG" entities \
-          -dialect SQLite -where "Layer='${LAYER}'" \
-          -t_srs "$SRS_OUT" -nln "$LAYER"
-  [[ $GZIP_OUTPUT -eq 1 ]] && gzip -9 -f "$OUT"
+  TMP="$WEBDIR/${LAYER}.geojson.tmp"
+  FINAL="$WEBDIR/${LAYER}.geojson"
+
+  ogr2ogr -f GeoJSON "$TMP" "$GPKG" entities \
+          -dialect SQLite \
+          -where "Layer='${LAYER}' AND SubClasses LIKE '%Hatch%'" \
+          -t_srs "$SRS_OUT" -nln "$LAYER" >/dev/null 2>&1
+
+  if [[ -s "$TMP" ]]; then
+    mv "$TMP" "$FINAL"
+    echo "   • Exported ${LAYER} → $(basename "$FINAL") ($(wc -c < "$FINAL") B)"
+    [[ $GZIP_OUTPUT -eq 1 ]] && gzip -9 -f "$FINAL"
+  else
+    rm -f "$TMP"
+    echo "   • skipping ${LAYER} (0 features)"
+  fi
 done
 
-# -------- export *all other* layers into one GeoJSON -------------------------
-NON="$WEBDIR/non_hatch_layers.geojson"
+# ---------- export NON-hatch layers (always) -------------------------------
+NON="$WEBDIR/${BASENAME}_non_hatch.geojson"
 echo ">> Exporting NON-hatch layers → $(basename "$NON")"
 ogr2ogr -f GeoJSON "$NON" "$GPKG" entities \
-        -dialect SQLite -where "Layer NOT LIKE 'PLAT-HATCH%'" \
+        -dialect SQLite \
+        -where "SubClasses NOT LIKE '%Hatch%'" \
         -t_srs "$SRS_OUT" -nln non_hatch_layers
 [[ $GZIP_OUTPUT -eq 1 ]] && gzip -9 -f "$NON"
 
-echo "✓ Build complete.  Files are in $WEBDIR/."
+# ---------- done -----------------------------------------------------------
+echo "✓ Done.  GeoPackage: $GPKG"
 [[ $GZIP_OUTPUT -eq 0 ]] && echo "  (gzip skipped — pass --gzip to create .gz copies)"
