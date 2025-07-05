@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "PLAT-HATCH-ROW-ACCESS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "Layer": "PLAT-HATCH-ROW-ACCESS", "PaperSpace": null, "SubClasses": "AcDbEntity:AcDbHatch", "Linetype": null, "EntityHandle": "F90", "Text": "ANSI31" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -10859462.199675919488072, 3005251.851635376457125 ], [ -10859474.252834443002939, 3005263.836336642503738 ], [ -10859598.59469691850245, 3005137.418183545581996 ], [ -10859586.541540771722794, 3005125.433695671614259 ], [ -10859462.199675919488072, 3005251.851635376457125 ] ] ] ] } }
+]
+}

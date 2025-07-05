@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "PLAT-HATCH-CAMINATA-S1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "Layer": "PLAT-HATCH-CAMINATA-S1", "PaperSpace": null, "SubClasses": "AcDbEntity:AcDbHatch", "Linetype": null, "EntityHandle": "113A", "Text": "ANSI31" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -10859365.906459607183933, 3005464.844427776522934 ], [ -10859365.906287625432014, 3005464.845730541739613 ], [ -10859375.989057835191488, 3005466.191218124236912 ], [ -10859397.189590808004141, 3005305.593259319663048 ], [ -10859387.104187911376357, 3005304.268619961570948 ], [ -10859365.906459607183933, 3005464.844427776522934 ] ] ] ] } }
+]
+}

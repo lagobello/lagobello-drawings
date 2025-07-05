@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "PLAT-HATCH-STREET-RESERVE",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
-"features": [
-{ "type": "Feature", "properties": { "Layer": "PLAT-HATCH-STREET-RESERVE", "SubClasses": "AcDbEntity:AcDbHatch", "ExtendedEntity": "     5      2", "Linetype": null, "EntityHandle": "F98", "Text": "ANSI31" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -10859435.698485666885972, 3005253.548345305491239 ], [ -10859448.810326930135489, 3005240.217669407837093 ], [ -10859400.597572484984994, 3005192.278924525249749 ], [ -10859397.520715499296784, 3005215.587509229313582 ], [ -10859435.698485666885972, 3005253.548345305491239 ] ] ] ] } }
-]
-}

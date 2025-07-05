@@ -3,6 +3,6 @@
 "name": "PLAT-HATCH-CAMINATA-PROPOSED",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
 "features": [
-{ "type": "Feature", "properties": { "Layer": "PLAT-HATCH-CAMINATA-PROPOSED", "SubClasses": "AcDbEntity:AcDbHatch", "ExtendedEntity": "     5      2", "Linetype": null, "EntityHandle": "FA0", "Text": "ANSI31" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -10859385.767943810671568, 3005304.619711820967495 ], [ -10859395.853397630155087, 3005305.9443190228194 ], [ -10859406.590503312647343, 3005224.605779394973069 ], [ -10859397.520715499296784, 3005215.587509229313582 ], [ -10859385.767943810671568, 3005304.619711820967495 ] ] ] ] } }
+{ "type": "Feature", "properties": { "Layer": "PLAT-HATCH-CAMINATA-PROPOSED", "PaperSpace": null, "SubClasses": "AcDbEntity:AcDbHatch", "Linetype": null, "EntityHandle": "FA0", "Text": "ANSI31" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -10859387.104187911376357, 3005304.268619961570948 ], [ -10859397.189590808004141, 3005305.593259319663048 ], [ -10859407.926967088133097, 3005224.254930584225804 ], [ -10859398.857255836948752, 3005215.236648198217154 ], [ -10859387.104187911376357, 3005304.268619961570948 ] ] ] ] } }
 ]
 }

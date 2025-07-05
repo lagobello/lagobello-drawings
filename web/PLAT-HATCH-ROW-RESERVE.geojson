@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "PLAT-HATCH-ROW-RESERVE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "Layer": "PLAT-HATCH-ROW-RESERVE", "PaperSpace": null, "SubClasses": "AcDbEntity:AcDbHatch", "Linetype": null, "EntityHandle": "F98", "Text": "ANSI31" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -10859437.03470379114151, 3005253.197535705752671 ], [ -10859450.14653786458075, 3005239.866933769080788 ], [ -10859401.934190357103944, 3005191.928123930003494 ], [ -10859398.857255836948752, 3005215.236648198217154 ], [ -10859437.03470379114151, 3005253.197535705752671 ] ] ] ] } }
+]
+}
