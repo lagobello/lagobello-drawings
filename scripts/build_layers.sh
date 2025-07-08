@@ -1,13 +1,13 @@
 #!/usr/bin/env bash
 # ---------------------------------------------------------------------------
-# build_layers.sh – DXF ➜ GeoPackage ➜ GeoJSON exporter for Lago Bello
+# build_layers.sh – DXF ➜ GeoPackage ➜ GeoJSON + KML exporter
 #
-# • Creates   <input>.gpkg   (EPSG:2279 – Texas South ft)
-# • Writes    <layer>.geojson for every DXF layer that contains HATCH
-#   elements (detected via SubClasses LIKE '%Hatch%').
-#   – We run ogr2ogr first → if resulting file is empty, we delete it.
-# • Writes    <basename>_non_hatch.geojson for everything else.
-# • Optional  --gzip   adds .gz copies.
+# • Creates <input>.gpkg   (EPSG:2279 – Texas South ft)
+# • For every DXF layer that contains HATCH entities:
+#       web/<layer>.geojson   (EPSG:3857)   [--gzip option]
+#       web/<layer>.kml       (EPSG:4326)
+# • Writes  web/<basename>_non_hatch.geojson  +  .kml  for everything else
+# • GeoJSON names/paths unchanged, so no web-page edits needed.
 #
 # usage: ./scripts/build_layers.sh path/to/file.dxf [--gzip]
 # ---------------------------------------------------------------------------
@@ -26,8 +26,9 @@ DIRNAME="$(dirname  "$SRC_DXF")"
 GPKG="${DIRNAME}/${BASENAME}.gpkg"
 WEBDIR="web"
 
-SRS_IN="EPSG:2279"   # Texas South ft
-SRS_OUT="EPSG:3857"  # Web-Mercator
+SRS_IN="EPSG:2279"   # Texas South ft (input)
+SRS_GJ="EPSG:3857"   # Web Mercator  (GeoJSON)
+SRS_KML="EPSG:4326"  # WGS-84 (required by KML)
 
 mkdir -p "$WEBDIR"
 
@@ -38,53 +39,52 @@ ogr2ogr -f GPKG "$GPKG" "$SRC_DXF" \
         -a_srs "$SRS_IN" -nlt PROMOTE_TO_MULTI \
         -lco GEOMETRY_NAME=geom
 
-# ---------- discover layers with HATCH elements ----------------------------
+# ---------- discover hatch layers ------------------------------------------
 echo ">> Detecting HATCH layers …"
 readarray -t HATCH_LAYERS < <(
   ogrinfo -ro -q "$GPKG" entities \
      -dialect SQLite \
      -sql "SELECT DISTINCT Layer FROM entities WHERE SubClasses LIKE '%Hatch%'" |
   awk -F'= ' '/Layer \(String\)/{
-       gsub(/"/,"",$2);  gsub(/^[[:space:]]+|[[:space:]]+$/,"",$2);
-       print $2
-  }' | sort
+       gsub(/"/,"",$2); gsub(/^[[:space:]]+|[[:space:]]+$/,"",$2); print $2 }' |
+  sort
 )
 
-if [[ ${#HATCH_LAYERS[@]} -eq 0 ]]; then
-  echo "   • No hatch layers found – nothing to export individually."
-else
-  echo "   • Found ${#HATCH_LAYERS[@]} hatch layers:"
-  printf '     - %s\n' "${HATCH_LAYERS[@]}"
-fi
+[[ ${#HATCH_LAYERS[@]} -eq 0 ]] && echo "   • No hatch layers found." \
+                                 || printf "   • %s hatch layers: %s\n" \
+                                   "${#HATCH_LAYERS[@]}" "${HATCH_LAYERS[*]}"
 
-# ---------- export each candidate layer, keep only if non-empty ------------
-for LAYER in "${HATCH_LAYERS[@]}"; do
-  TMP="$WEBDIR/${LAYER}.geojson.tmp"
-  FINAL="$WEBDIR/${LAYER}.geojson"
+# ---------- export helper ---------------------------------------------------
+export_layer () {        # $1=SQL where  $2=stem  (no ext)
+  local WHERE="$1" STEM="$2"
+  local GJ="$WEBDIR/${STEM}.geojson"
+  local KML="$WEBDIR/${STEM}.kml"
 
-  ogr2ogr -f GeoJSON "$TMP" "$GPKG" entities \
-          -dialect SQLite \
-          -where "Layer='${LAYER}' AND SubClasses LIKE '%Hatch%'" \
-          -t_srs "$SRS_OUT" -nln "$LAYER" >/dev/null 2>&1
+  ogr2ogr -f GeoJSON "$GJ.tmp" "$GPKG" entities \
+          -dialect SQLite -where "$WHERE" -t_srs "$SRS_GJ" -nln "$STEM" \
+          >/dev/null 2>&1
 
-  if [[ -s "$TMP" ]]; then
-    mv "$TMP" "$FINAL"
-    echo "   • Exported ${LAYER} → $(basename "$FINAL") ($(wc -c < "$FINAL") B)"
-    [[ $GZIP_OUTPUT -eq 1 ]] && gzip -9 -f "$FINAL"
+  if [[ -s "$GJ.tmp" ]]; then
+    mv "$GJ.tmp" "$GJ"
+    echo "   • GeoJSON  → $(basename "$GJ")  ($(wc -c < "$GJ") B)"
+    [[ $GZIP_OUTPUT -eq 1 ]] && gzip -9 -f "$GJ"
+    ogr2ogr -f KML "$KML" "$GPKG" entities \
+            -dialect SQLite -where "$WHERE" -t_srs "$SRS_KML" -nln "$STEM" \
+            >/dev/null 2>&1
+    echo "     KML      → $(basename "$KML")  ($(wc -c < "$KML") B)"
   else
-    rm -f "$TMP"
-    echo "   • skipping ${LAYER} (0 features)"
+    rm -f "$GJ.tmp"
+    echo "   • skipping $(basename "$STEM") (0 features)"
   fi
+}
+
+# ---------- per-layer hatch exports ----------------------------------------
+for LAYER in "${HATCH_LAYERS[@]}"; do
+  export_layer "Layer='${LAYER}' AND SubClasses LIKE '%Hatch%'" "${LAYER}"
 done
 
-# ---------- export NON-hatch layers (always) -------------------------------
-NON="$WEBDIR/${BASENAME}_non_hatch.geojson"
-echo ">> Exporting NON-hatch layers → $(basename "$NON")"
-ogr2ogr -f GeoJSON "$NON" "$GPKG" entities \
-        -dialect SQLite \
-        -where "SubClasses NOT LIKE '%Hatch%'" \
-        -t_srs "$SRS_OUT" -nln non_hatch_layers
-[[ $GZIP_OUTPUT -eq 1 ]] && gzip -9 -f "$NON"
+# ---------- non-hatch export -----------------------------------------------
+export_layer "SubClasses NOT LIKE '%Hatch%'" "${BASENAME}_non_hatch"
 
 # ---------- done -----------------------------------------------------------
 echo "✓ Done.  GeoPackage: $GPKG"

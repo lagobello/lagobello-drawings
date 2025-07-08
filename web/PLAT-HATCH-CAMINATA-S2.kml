@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="PLAT_HATCH_CAMINATA_S2" id="PLAT_HATCH_CAMINATA_S2">
+	<SimpleField name="Layer" type="string"></SimpleField>
+	<SimpleField name="PaperSpace" type="int"></SimpleField>
+	<SimpleField name="SubClasses" type="string"></SimpleField>
+	<SimpleField name="Linetype" type="string"></SimpleField>
+	<SimpleField name="EntityHandle" type="string"></SimpleField>
+	<SimpleField name="Text" type="string"></SimpleField>
+</Schema>
+<Folder><name>PLAT_HATCH_CAMINATA_S2</name>
+  <Placemark id="PLAT_HATCH_CAMINATA_S2.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_CAMINATA_S2">
+		<SimpleData name="Layer">PLAT-HATCH-CAMINATA-S2</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+		<SimpleData name="EntityHandle">1142</SimpleData>
+		<SimpleData name="Text">ANSI31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-97.5509517664296,26.0541995321439 -97.5510467578766,26.0541803509971 -97.551434269712,26.0515431998074 -97.5513436946461,26.0515323411053 -97.5509517664296,26.0541995321439</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

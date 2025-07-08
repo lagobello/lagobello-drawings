@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="PLAT_HATCH_LOTS_S2" id="PLAT_HATCH_LOTS_S2">
+	<SimpleField name="Layer" type="string"></SimpleField>
+	<SimpleField name="PaperSpace" type="int"></SimpleField>
+	<SimpleField name="SubClasses" type="string"></SimpleField>
+	<SimpleField name="Linetype" type="string"></SimpleField>
+	<SimpleField name="EntityHandle" type="string"></SimpleField>
+	<SimpleField name="Text" type="string"></SimpleField>
+</Schema>
+<Folder><name>PLAT_HATCH_LOTS_S2</name>
+  <Placemark id="PLAT_HATCH_LOTS_S2.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S2">
+		<SimpleData name="Layer">PLAT-HATCH-LOTS-S2</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+		<SimpleData name="EntityHandle">11B1</SimpleData>
+		<SimpleData name="Text">ANSI31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-97.5521131037801,26.0519695493182 -97.5525382048698,26.0519527917566 -97.5525382048698,26.0519527917566 -97.552540061067,26.0518964925656 -97.5525455583681,26.0518403877284 -97.5525546779578,26.0517846692185 -97.5525546779578,26.0517846692185 -97.5525631115535,26.0517320689799 -97.5525677922937,26.0516790884015 -97.5521162509057,26.0516249580022 -97.5521131037801,26.0519695493182</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="PLAT_HATCH_LOTS_S2.2">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S2">
+		<SimpleData name="Layer">PLAT-HATCH-LOTS-S2</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+		<SimpleData name="EntityHandle">11BB</SimpleData>
+		<SimpleData name="Text">ANSI31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-97.552127351147,26.0522484461461 -97.5525531171353,26.052227571362 -97.5525397715577,26.0520054807615 -97.5525397715577,26.0520054807615 -97.5525382048698,26.0519527917566 -97.5521131037801,26.0519695493182 -97.5521127724951,26.0520058229118 -97.552127351147,26.0522484461461</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="PLAT_HATCH_LOTS_S2.3">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S2">
+		<SimpleData name="Layer">PLAT-HATCH-LOTS-S2</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+		<SimpleData name="EntityHandle">11C5</SimpleData>
+		<SimpleData name="Text">ANSI31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-97.5521393478367,26.0524480986556 -97.5521404789343,26.0525171350324 -97.5525689626058,26.0525023083603 -97.5525689626058,26.0525023083603 -97.552565207676,26.0524287755085 -97.5525531171353,26.052227571362 -97.552127351147,26.0522484461461 -97.5521393478367,26.0524480986556</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="PLAT_HATCH_LOTS_S2.4">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S2">
+		<SimpleData name="Layer">PLAT-HATCH-LOTS-S2</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+		<SimpleData name="EntityHandle">11CD</SimpleData>
+		<SimpleData name="Text">ANSI31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-97.5521448367719,26.0527831142283 -97.5525717415748,26.0527774065002 -97.5525717415748,26.0527774065002 -97.5525689626058,26.0525023083603 -97.5521404789343,26.0525171350324 -97.5521448367719,26.0527831142283</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="PLAT_HATCH_LOTS_S2.5">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S2">
+		<SimpleData name="Layer">PLAT-HATCH-LOTS-S2</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+		<SimpleData name="EntityHandle">11D5</SimpleData>
+		<SimpleData name="Text">ANSI31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-97.5521493345012,26.0530576303809 -97.5525567606782,26.0530521831105 -97.5525567606782,26.0530521831105 -97.5525717415748,26.0527774065002 -97.5521448367719,26.0527831142283 -97.5521493345012,26.0530576303809</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="PLAT_HATCH_LOTS_S2.6">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S2">
+		<SimpleData name="Layer">PLAT-HATCH-LOTS-S2</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+		<SimpleData name="EntityHandle">11DE</SimpleData>
+		<SimpleData name="Text">ANSI31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-97.552153817031,26.0533312175308 -97.5525242882378,26.0533262643954 -97.5525242882378,26.0533262643954 -97.552527484212,26.0533028771119 -97.552527484212,26.0533028771119 -97.5525567606782,26.0530521831105 -97.5521493345012,26.0530576303809 -97.552153817031,26.0533312175308</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="PLAT_HATCH_LOTS_S2.7">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S2">
+		<SimpleData name="Layer">PLAT-HATCH-LOTS-S2</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+		<SimpleData name="EntityHandle">11E6</SimpleData>
+		<SimpleData name="Text">ANSI31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-97.5521587945534,26.0536350145862 -97.5525227812804,26.0536008306056 -97.5525227812804,26.0536008306056 -97.5525169657003,26.0535322625693 -97.5525152770506,26.0534635105239 -97.5525177202978,26.0533947769804 -97.5525242882378,26.0533262643954 -97.552153817031,26.0533312175308 -97.5521587945534,26.0536350145862</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="PLAT_HATCH_LOTS_S2.8">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S2">
+		<SimpleData name="Layer">PLAT-HATCH-LOTS-S2</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+		<SimpleData name="EntityHandle">11F0</SimpleData>
+		<SimpleData name="Text">ANSI31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-97.5522231934701,26.0539427933693 -97.5525798737597,26.0538707667711 -97.5525490543588,26.0537462453114 -97.5525490543588,26.0537462453114 -97.5525335758873,26.0536738831927 -97.5525227812804,26.0536008306056 -97.5521587945534,26.0536350145862 -97.5521596293972,26.0536859681064 -97.5522231934701,26.0539427933693</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="PLAT_HATCH_LOTS_S2.9">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S2">
+		<SimpleData name="Layer">PLAT-HATCH-LOTS-S2</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+		<SimpleData name="EntityHandle">11FA</SimpleData>
+		<SimpleData name="Text">ANSI31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-97.55270460702,26.0518087592714 -97.5526980071787,26.0518476237672 -97.5526980071787,26.0518476237672 -97.553021321322,26.0518644479235 -97.553021321322,26.0518644479235 -97.5530215075734,26.0517680764279 -97.5530256650041,26.0516717779811 -97.5527216122744,26.0516559561266 -97.5527198921549,26.0516855828165 -97.5527198921549,26.0516855828165 -97.552714446074,26.0517473934357 -97.55270460702,26.0518087592714</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="PLAT_HATCH_LOTS_S2.10">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S2">
+		<SimpleData name="Layer">PLAT-HATCH-LOTS-S2</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+		<SimpleData name="EntityHandle">1204</SimpleData>
+		<SimpleData name="Text">ANSI31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-97.5526918305634,26.0519980252482 -97.5526943632624,26.0520401723352 -97.5530288931482,26.0520237694641 -97.553025126453,26.0519610910091 -97.553025126453,26.0519610910091 -97.553021321322,26.0518644479235 -97.5526980071787,26.0518476237672 -97.5526980071787,26.0518476237672 -97.5526925690873,26.0518976133337 -97.5526905076688,26.0519478091367 -97.5526918305634,26.0519980252482</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="PLAT_HATCH_LOTS_S2.11">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S2">
+		<SimpleData name="Layer">PLAT-HATCH-LOTS-S2</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+		<SimpleData name="EntityHandle">120C</SimpleData>
+		<SimpleData name="Text">ANSI31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-97.5527057837125,26.0522302216548 -97.5530403142864,26.0522138187493 -97.5530288931482,26.0520237694641 -97.5526943632624,26.0520401723352 -97.5527057837125,26.0522302216548</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="PLAT_HATCH_LOTS_S2.12">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S2">
+		<SimpleData name="Layer">PLAT-HATCH-LOTS-S2</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+		<SimpleData name="EntityHandle">1214</SimpleData>
+		<SimpleData name="Text">ANSI31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-97.5527171739894,26.0524197682307 -97.5530517052497,26.052403365291 -97.5530403142864,26.0522138187493 -97.5527057837125,26.0522302216548 -97.5527171739894,26.0524197682307</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="PLAT_HATCH_LOTS_S2.13">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S2">
+		<SimpleData name="Layer">PLAT-HATCH-LOTS-S2</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+		<SimpleData name="EntityHandle">121C</SimpleData>
+		<SimpleData name="Text">ANSI31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-97.5527245824942,26.0526172292664 -97.5530595759099,26.0526131359406 -97.5530595759099,26.0526131359406 -97.5530517052497,26.052403365291 -97.5527171742815,26.0524197682164 -97.5527171742815,26.0524197682164 -97.5527245824942,26.0526172292664</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="PLAT_HATCH_LOTS_S2.14">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S2">
+		<SimpleData name="Layer">PLAT-HATCH-LOTS-S2</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+		<SimpleData name="EntityHandle">1224</SimpleData>
+		<SimpleData name="Text">ANSI31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-97.5527232369726,26.0528098021491 -97.553058147113,26.0528177133926 -97.553058147113,26.0528177133926 -97.5530595759099,26.0526131359406 -97.5527245824942,26.0526172292664 -97.5527245824942,26.0526172292664 -97.5527232369726,26.0528098021491</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="PLAT_HATCH_LOTS_S2.15">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S2">
+		<SimpleData name="Layer">PLAT-HATCH-LOTS-S2</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+		<SimpleData name="EntityHandle">122C</SimpleData>
+		<SimpleData name="Text">ANSI31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-97.5527134368857,26.0530021753135 -97.5530477367097,26.0530220786983 -97.5530477367097,26.0530220786983 -97.553058147113,26.0528177133926 -97.5527232369726,26.0528098021491 -97.5527232369726,26.0528098021491 -97.5527134368857,26.0530021753135</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="PLAT_HATCH_LOTS_S2.16">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S2">
+		<SimpleData name="Layer">PLAT-HATCH-LOTS-S2</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+		<SimpleData name="EntityHandle">1234</SimpleData>
+		<SimpleData name="Text">ANSI31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-97.5526951976132,26.0531940460263 -97.5530283610342,26.0532259102523 -97.5530283610342,26.0532259102523 -97.5530477367097,26.0530220786983 -97.5527134368857,26.0530021753135 -97.5527134368857,26.0530021753135 -97.5526951976132,26.0531940460263</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="PLAT_HATCH_LOTS_S2.17">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S2">
+		<SimpleData name="Layer">PLAT-HATCH-LOTS-S2</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+		<SimpleData name="EntityHandle">123F</SimpleData>
+		<SimpleData name="Text">ANSI31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-97.5526783631685,26.0533215322276 -97.5526710410404,26.0533853826122 -97.5526710410404,26.0533853826122 -97.5530011322174,26.0534249518752 -97.5530084718548,26.0533749953352 -97.5530104775165,26.0533613439827 -97.5530104775165,26.0533613439827 -97.5530283610342,26.0532259102523 -97.5526951976132,26.0531940460263 -97.5526951976132,26.0531940460263 -97.5526783631685,26.0533215322276</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="PLAT_HATCH_LOTS_S2.18">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S2">
+		<SimpleData name="Layer">PLAT-HATCH-LOTS-S2</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+		<SimpleData name="EntityHandle">1249</SimpleData>
+		<SimpleData name="Text">ANSI31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-97.5526930328209,26.0536966838665 -97.5527473953238,26.0537279959951 -97.552853871145,26.0537064943369 -97.552853871145,26.0537064943369 -97.5528714074728,26.0537034377242 -97.5528891119962,26.0537013148181 -97.5529069238369,26.0537001329182 -97.552924781748,26.0536998960887 -97.5529426243238,26.0537006051439 -97.5529603902116,26.0537022576457 -97.5530011322174,26.0534249518752 -97.5526710410404,26.0533853826122 -97.5526710410404,26.0533853826122 -97.5526675637829,26.0534635374472 -97.5526700828211,26.0535417222664 -97.552678586088,26.0536195621587 -97.5526930328209,26.0536966838665</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "non_hatch_layers",
+"name": "lago-sec1sec2-map-vitto-20250623-RevA_non_hatch",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
 "features": [
 { "type": "Feature", "properties": { "Layer": "PLAT-BORDER-S2", "PaperSpace": null, "SubClasses": "AcDbEntity:AcDbLine", "Linetype": null, "EntityHandle": "164", "Text": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -10859543.645828980952501, 3005750.616152317263186, 0.0 ], [ -10859551.228438774123788, 3005693.168391104787588, 0.0 ] ] ] } },

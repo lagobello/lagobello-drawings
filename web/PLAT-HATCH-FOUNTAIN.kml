@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="PLAT_HATCH_FOUNTAIN" id="PLAT_HATCH_FOUNTAIN">
+	<SimpleField name="Layer" type="string"></SimpleField>
+	<SimpleField name="PaperSpace" type="int"></SimpleField>
+	<SimpleField name="SubClasses" type="string"></SimpleField>
+	<SimpleField name="Linetype" type="string"></SimpleField>
+	<SimpleField name="EntityHandle" type="string"></SimpleField>
+	<SimpleField name="Text" type="string"></SimpleField>
+</Schema>
+<Folder><name>PLAT_HATCH_FOUNTAIN</name>
+  <Placemark id="PLAT_HATCH_FOUNTAIN.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_FOUNTAIN">
+		<SimpleData name="Layer">PLAT-HATCH-FOUNTAIN</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
+		<SimpleData name="EntityHandle">E42</SimpleData>
+		<SimpleData name="Text">ANSI31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-97.5520711809638,26.0502128463619 -97.5522097454238,26.0501036792562 -97.5521599740893,26.0500600027525 -97.5521599740893,26.0500600027525 -97.5521490911988,26.0500497732928 -97.5521390122501,26.0500388924696 -97.5521297848954,26.0500274117264 -97.5521214527608,26.0500153853433 -97.5521140552396,26.0500028701802 -97.5521076273064,26.0499899254077 -97.5521021993517,26.0499766122277 -97.5520977970379,26.0499629935839 -97.5520944411785,26.0499491338639 -97.5520921476392,26.0499350985954 -97.5520909272635,26.0499209541358 -97.5519196039485,26.0500774409189 -97.5520711809638,26.0502128463619</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
