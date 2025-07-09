@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<kml xmlns="http://www.opengis.net/kml/2.2">
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns="http://www.opengis.net/kml/2.2">
 <Document id="root_doc">
-  <NetworkLink><Link><href>https://lagobello.github.io/lagobello-drawings/web/styles.kml</href></Link></NetworkLink>
 <Schema name="PLAT_HATCH_ROW_RESERVE" id="PLAT_HATCH_ROW_RESERVE">
 	<SimpleField name="Layer" type="string"></SimpleField>
 	<SimpleField name="PaperSpace" type="int"></SimpleField>
@@ -12,7 +11,8 @@
 </Schema>
 <Folder><name>PLAT_HATCH_ROW_RESERVE</name>
   <Placemark>
-	<styleUrl>#rowStyle</styleUrl>
+	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#rowStyle</styleUrl>
+        <gx:drawOrder>1</gx:drawOrder>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_ROW_RESERVE">
 		<SimpleData name="Layer">PLAT-HATCH-ROW-RESERVE</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
