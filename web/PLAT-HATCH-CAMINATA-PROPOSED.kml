@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<kml xmlns="http://www.opengis.net/kml/2.2">
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns="http://www.opengis.net/kml/2.2">
 <Document id="root_doc">
 <Schema name="PLAT_HATCH_CAMINATA_PROPOSED" id="PLAT_HATCH_CAMINATA_PROPOSED">
 	<SimpleField name="Layer" type="string"></SimpleField>
@@ -12,6 +12,7 @@
 <Folder><name>PLAT_HATCH_CAMINATA_PROPOSED</name>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#caminataStyle</styleUrl>
+        <gx:drawOrder>1</gx:drawOrder>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_CAMINATA_PROPOSED">
 		<SimpleData name="Layer">PLAT-HATCH-CAMINATA-PROPOSED</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>

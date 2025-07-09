@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<kml xmlns="http://www.opengis.net/kml/2.2">
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns="http://www.opengis.net/kml/2.2">
 <Document id="root_doc">
-<Schema name="PLAT_HATCH_STREET_S3" id="PLAT_HATCH_STREET_S3">
+<Schema name="PLAT_HATCH_ROW_S3" id="PLAT_HATCH_ROW_S3">
 	<SimpleField name="Layer" type="string"></SimpleField>
 	<SimpleField name="PaperSpace" type="int"></SimpleField>
 	<SimpleField name="SubClasses" type="string"></SimpleField>
@@ -9,10 +9,11 @@
 	<SimpleField name="EntityHandle" type="string"></SimpleField>
 	<SimpleField name="Text" type="string"></SimpleField>
 </Schema>
-<Folder><name>PLAT_HATCH_STREET_S3</name>
+<Folder><name>PLAT_HATCH_ROW_S3</name>
   <Placemark>
-	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
-	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_STREET_S3">
+	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#rowStyle</styleUrl>
+        <gx:drawOrder>1</gx:drawOrder>
+	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_ROW_S3">
 		<SimpleData name="Layer">PLAT-HATCH-STREET-S3</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
 		<SimpleData name="EntityHandle">B403</SimpleData>
