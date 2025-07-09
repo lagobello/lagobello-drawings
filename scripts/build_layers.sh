@@ -97,6 +97,7 @@ export_layer () {        # $1=SQL where  $2=stem  (no ext)
         -e '/<NetworkLink><Link><href>https:\/\/lagobello.github.io\/lagobello-drawings\/web\/styles.kml<\/href><\/Link><\/NetworkLink>/d' "$KML_TMP" | \
     sed -e 's|</styleUrl>|</styleUrl>\n        <gx:drawOrder>1</gx:drawOrder>|g' \
         -e 's|<kml |<kml xmlns:gx="http://www.google.com/kml/ext/2.2" |' > "$KML"
+
     rm "$KML_TMP"
 
     echo "     KML      → $(basename "$KML")  ($(wc -c < "$KML") B)"
