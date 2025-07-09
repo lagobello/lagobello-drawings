@@ -15,7 +15,7 @@
 
     <Style id="caminataStyle">
       <LineStyle><color>ff00ff00</color><width>3.5</width></LineStyle>
-      <PolyStyle><fill>0</fill></PolyStyle>
+      <PolyStyle><fill>1</fill></PolyStyle>
     </Style>
 
     <Style id="greenFill">
