@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document id="root_doc">
+<Style id="style-for-PLAT-HATCH-ROW-RESERVE"><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 <Schema name="PLAT_HATCH_ROW_RESERVE" id="PLAT_HATCH_ROW_RESERVE">
 	<SimpleField name="Layer" type="string"></SimpleField>
 	<SimpleField name="PaperSpace" type="int"></SimpleField>
@@ -10,15 +11,15 @@
 	<SimpleField name="Text" type="string"></SimpleField>
 </Schema>
 <Folder><name>PLAT_HATCH_ROW_RESERVE</name>
-  <Placemark id="PLAT_HATCH_ROW_RESERVE.1">
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Placemark>
+	<styleUrl>#style-for-PLAT-HATCH-ROW-RESERVE</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_ROW_RESERVE">
 		<SimpleData name="Layer">PLAT-HATCH-ROW-RESERVE</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
 		<SimpleData name="EntityHandle">F98</SimpleData>
 		<SimpleData name="Text">ANSI31</SimpleData>
 	</SchemaData></ExtendedData>
-      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-97.5519826520799,26.0498242305393 -97.5521004376894,26.0497166448432 -97.5516673388029,26.0493297500028 -97.5516396982298,26.0495178638807 -97.5519826520799,26.0498242305393</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-97.5519706486283,26.0498270625209 -97.5520884343023,26.0497194762305 -97.5516553317603,26.0493325819236 -97.5516276918837,26.0495206962848 -97.5519706486283,26.0498270625209</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
 </Folder>
 </Document></kml>

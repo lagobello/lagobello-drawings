@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document id="root_doc">
+<Style id="style-for-PLAT-HATCH-ROW-ACCESS"><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 <Schema name="PLAT_HATCH_ROW_ACCESS" id="PLAT_HATCH_ROW_ACCESS">
 	<SimpleField name="Layer" type="string"></SimpleField>
 	<SimpleField name="PaperSpace" type="int"></SimpleField>
@@ -10,15 +11,15 @@
 	<SimpleField name="Text" type="string"></SimpleField>
 </Schema>
 <Folder><name>PLAT_HATCH_ROW_ACCESS</name>
-  <Placemark id="PLAT_HATCH_ROW_ACCESS.1">
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Placemark>
+	<styleUrl>#style-for-PLAT-HATCH-ROW-ACCESS</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_ROW_ACCESS">
 		<SimpleData name="Layer">PLAT-HATCH-ROW-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
 		<SimpleData name="EntityHandle">F90</SimpleData>
 		<SimpleData name="Text">ANSI31</SimpleData>
 	</SchemaData></ExtendedData>
-      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-97.5522087128708,26.0498133683468 -97.552316988236,26.049910091768 -97.5534339701912,26.0488898206609 -97.5533256948473,26.0487930981201 -97.5522087128708,26.0498133683468</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-97.5521967103972,26.0498161996008 -97.5523049866758,26.0499129228887 -97.5534219692528,26.0488926461432 -97.5533136929955,26.0487959237356 -97.5521967103972,26.0498161996008</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
 </Folder>
 </Document></kml>

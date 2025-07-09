@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document id="root_doc">
+<Style id="style-for-PLAT-HATCH-FOUNTAIN"><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 <Schema name="PLAT_HATCH_FOUNTAIN" id="PLAT_HATCH_FOUNTAIN">
 	<SimpleField name="Layer" type="string"></SimpleField>
 	<SimpleField name="PaperSpace" type="int"></SimpleField>
@@ -10,15 +11,15 @@
 	<SimpleField name="Text" type="string"></SimpleField>
 </Schema>
 <Folder><name>PLAT_HATCH_FOUNTAIN</name>
-  <Placemark id="PLAT_HATCH_FOUNTAIN.1">
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Placemark>
+	<styleUrl>#style-for-PLAT-HATCH-FOUNTAIN</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_FOUNTAIN">
 		<SimpleData name="Layer">PLAT-HATCH-FOUNTAIN</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
 		<SimpleData name="EntityHandle">E42</SimpleData>
 		<SimpleData name="Text">ANSI31</SimpleData>
 	</SchemaData></ExtendedData>
-      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-97.5520711809638,26.0502128463619 -97.5522097454238,26.0501036792562 -97.5521599740893,26.0500600027525 -97.5521599740893,26.0500600027525 -97.5521490911988,26.0500497732928 -97.5521390122501,26.0500388924696 -97.5521297848954,26.0500274117264 -97.5521214527608,26.0500153853433 -97.5521140552396,26.0500028701802 -97.5521076273064,26.0499899254077 -97.5521021993517,26.0499766122277 -97.5520977970379,26.0499629935839 -97.5520944411785,26.0499491338639 -97.5520921476392,26.0499350985954 -97.5520909272635,26.0499209541358 -97.5519196039485,26.0500774409189 -97.5520711809638,26.0502128463619</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-97.5520591796107,26.0502156788881 -97.5521977442222,26.05010651112 -97.5521479724714,26.0500628346792 -97.5521479724714,26.0500628346792 -97.5521370894869,26.0500526052319 -97.552127010445,26.050041724417 -97.5521177829984,26.0500302436783 -97.5521094507734,26.0500182172959 -97.5521020531641,26.0500057021294 -97.5520956251452,26.0499927573496 -97.5520901971077,26.0499794441585 -97.5520857947144,26.0499658254995 -97.5520824387793,26.0499519657607 -97.5520801451684,26.0499379304698 -97.5520789247254,26.0499237859841 -97.5519076013167,26.0500802736316 -97.5520591796107,26.0502156788881</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
 </Folder>
 </Document></kml>
