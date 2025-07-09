@@ -23,10 +23,9 @@
       <PolyStyle><color>8000ff00</color><fill>1</fill></PolyStyle>
     </Style>
 
-    <Style id="defaultStyle">
-      <LineStyle><color>ff0000ff</color><width>1</LineStyle>
-      <PolyStyle><fill>0</fill></PolyStyle>
-    </Style>
+      <Style id="defaultStyle">
+        <LineStyle><color>ff0000ff</color><width>1</width></LineStyle>
+        <PolyStyle><fill>0</fill></PolyStyle>
+      </Style>
 
-  </Document>
-</kml>
+  </Document></kml>
