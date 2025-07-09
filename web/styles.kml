@@ -5,7 +5,7 @@
 
     <Style id="lotsStyle">
       <LineStyle><color>ff000000</color><width>2.5</width></LineStyle>
-      <PolyStyle><color>80ff0000</color><fill>1</fill></PolyStyle>
+      <PolyStyle><color>30ff0000</color><fill>1</fill></PolyStyle>
     </Style>
 
     <Style id="rowStyle">
@@ -14,19 +14,18 @@
     </Style>
 
     <Style id="caminataStyle">
-      <LineStyle><color>ff00ff00</color><width>3.5</width></LineStyle>
-      <PolyStyle><color>8000ff00</color><fill>1</fill></PolyStyle>
+      <LineStyle><color>ff00ff00</color><width>1.5</width></LineStyle>
+      <PolyStyle><color>3000ff00</color><fill>1</fill></PolyStyle>
     </Style>
 
     <Style id="greenFill">
       <LineStyle><color>ff000000</color><width>2</width></LineStyle>
-      <PolyStyle><color>8000ff00</color><fill>1</fill></PolyStyle>
+      <PolyStyle><color>3000ff00</color><fill>1</fill></PolyStyle>
     </Style>
 
-    <Style id="defaultStyle">
-      <LineStyle><color>ff0000ff</color><width>1</LineStyle>
-      <PolyStyle><fill>0</fill></PolyStyle>
-    </Style>
+      <Style id="defaultStyle">
+        <LineStyle><color>ff0000ff</color><width>1</width></LineStyle>
+        <PolyStyle><fill>0</fill></PolyStyle>
+      </Style>
 
-  </Document>
-</kml>
+  </Document></kml>
