@@ -4,8 +4,8 @@
     <name>Lago Bello Shared Styles</name>
 
     <Style id="lotsStyle">
-      <LineStyle><color>ffffffff</color><width>2.5</width></LineStyle>
-      <PolyStyle><color>a000aaff</color></PolyStyle>
+      <LineStyle><color>ff000000</color><width>2.5</width></LineStyle>
+      <PolyStyle><color>80ff0000</color><fill>1</fill></PolyStyle>
     </Style>
 
     <Style id="rowStyle">
@@ -19,12 +19,12 @@
     </Style>
 
     <Style id="greenFill">
-      <LineStyle><color>ffffffff</color><width>2</width></LineStyle>
-      <PolyStyle><color>a000ff00</color></PolyStyle>
+      <LineStyle><color>ff000000</color><width>2</width></LineStyle>
+      <PolyStyle><color>8000ff00</color><fill>1</fill></PolyStyle>
     </Style>
 
     <Style id="defaultStyle">
-      <LineStyle><color>ff0000ff</color><width>1</width></LineStyle>
+      <LineStyle><color>ff0000ff</color><width>1</LineStyle>
       <PolyStyle><fill>0</fill></PolyStyle>
     </Style>
 
