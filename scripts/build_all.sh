@@ -28,5 +28,5 @@ mkdir -p "${ROOT_DIR}/web"
 for CAD in "${CAD_FILES[@]}"; do
   echo "=== Processing $(basename "$CAD") ==="
   # run build_layers.sh from repo root so WEBDIR=web points there
-  ( cd "${ROOT_DIR}" && "${BUILD_SCRIPT}" "${CAD}" "$@" )
+  ( cd "${ROOT_DIR}" && bash "${BUILD_SCRIPT}" "${CAD}" "$@" )
 done

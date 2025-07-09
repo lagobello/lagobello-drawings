@@ -50,6 +50,14 @@ readarray -t HATCH_LAYERS < <(
   sort
 )
 
+MISNAMED_STREET="PLAT-HATCH-STREET-S3"
+for i in "${!HATCH_LAYERS[@]}"; do
+  if [[ ${HATCH_LAYERS[$i]} == "$MISNAMED_STREET" ]]; then
+    echo "   • WARNING: detected misnamed layer '$MISNAMED_STREET'" >&2
+    echo "     it will be exported as 'PLAT-HATCH-ROW-S3'" >&2
+  fi
+done
+
 [[ ${#HATCH_LAYERS[@]} -eq 0 ]] && echo "   • No hatch layers found." \
                                  || printf "   • %s hatch layers: %s\n" \
                                    "${#HATCH_LAYERS[@]}" "${HATCH_LAYERS[*]}"
@@ -86,8 +94,10 @@ export_layer () {        # $1=SQL where  $2=stem  (no ext)
     # Replace default inline style with reference to shared style document
     # using an absolute URL that includes the style ID.
     sed -e 's|<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>|<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#'${STYLE_NAME}'</styleUrl>|g' \
-        -e '/<NetworkLink><Link><href>https:\/\/lagobello.github.io\/lagobello-drawings\/web\/styles.kml<\/href><\/Link><\/NetworkLink>/d' \
-        "$KML_TMP" > "$KML"
+        -e '/<NetworkLink><Link><href>https:\/\/lagobello.github.io\/lagobello-drawings\/web\/styles.kml<\/href><\/Link><\/NetworkLink>/d' "$KML_TMP" | \
+    sed -e 's|</styleUrl>|</styleUrl>\n        <gx:drawOrder>1</gx:drawOrder>|g' \
+        -e 's|<kml |<kml xmlns:gx="http://www.google.com/kml/ext/2.2" |' > "$KML"
+
     rm "$KML_TMP"
 
     echo "     KML      → $(basename "$KML")  ($(wc -c < "$KML") B)"
@@ -99,7 +109,11 @@ export_layer () {        # $1=SQL where  $2=stem  (no ext)
 
 # ---------- per-layer hatch exports ----------------------------------------
 for LAYER in "${HATCH_LAYERS[@]}"; do
-  export_layer "Layer='${LAYER}' AND SubClasses LIKE '%Hatch%'" "${LAYER}"
+  OUTPUT_STEM="$LAYER"
+  if [[ "$LAYER" == "$MISNAMED_STREET" ]]; then
+    OUTPUT_STEM="PLAT-HATCH-ROW-S3"
+  fi
+  export_layer "Layer='${LAYER}' AND SubClasses LIKE '%Hatch%'" "$OUTPUT_STEM"
 done
 
 # ---------- non-hatch export -----------------------------------------------
