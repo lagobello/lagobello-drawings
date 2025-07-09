@@ -68,9 +68,17 @@ export_layer () {        # $1=SQL where  $2=stem  (no ext)
     mv "$GJ.tmp" "$GJ"
     echo "   • GeoJSON  → $(basename "$GJ")  ($(wc -c < "$GJ") B)"
     [[ $GZIP_OUTPUT -eq 1 ]] && gzip -9 -f "$GJ"
-    ogr2ogr -f KML "$KML" "$GPKG" entities \
+    
+    local KML_TMP="${KML}.tmp"
+    ogr2ogr -f KML "$KML_TMP" "$GPKG" entities \
             -dialect SQLite -where "$WHERE" -t_srs "$SRS_KML" -nln "$STEM" \
             >/dev/null 2>&1
+            
+    local STYLE_ID="style-for-${STEM}"
+    sed 's|<Document id="root_doc">|<Document id="root_doc">\n<Style id="'${STYLE_ID}'"><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>|' "$KML_TMP" > "${KML_TMP}.1"
+    sed 's|<Style>.*</Style>|<styleUrl>#'${STYLE_ID}'</styleUrl>|g' "${KML_TMP}.1" > "$KML"
+    rm "$KML_TMP" "${KML_TMP}.1"
+
     echo "     KML      → $(basename "$KML")  ($(wc -c < "$KML") B)"
   else
     rm -f "$GJ.tmp"
