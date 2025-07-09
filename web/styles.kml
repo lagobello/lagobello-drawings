@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Lago Bello Shared Styles</name>
+
+    <Style id="lotsStyle">
+      <LineStyle><color>ffffffff</color><width>2.5</width></LineStyle>
+      <PolyStyle><color>a000aaff</color></PolyStyle>
+    </Style>
+
+    <Style id="rowStyle">
+      <LineStyle><color>ff00a5ff</color><width>3</width></LineStyle>
+      <PolyStyle><fill>0</fill></PolyStyle>
+    </Style>
+
+    <Style id="caminataStyle">
+      <LineStyle><color>ff00ff00</color><width>3.5</width></LineStyle>
+      <PolyStyle><fill>0</fill></PolyStyle>
+    </Style>
+
+    <Style id="greenFill">
+      <LineStyle><color>ffffffff</color><width>2</width></LineStyle>
+      <PolyStyle><color>a000ff00</color></PolyStyle>
+    </Style>
+
+    <Style id="defaultStyle">
+      <LineStyle><color>ff0000ff</color><width>1</width></LineStyle>
+      <PolyStyle><fill>0</fill></PolyStyle>
+    </Style>
+
+  </Document>
+</kml>

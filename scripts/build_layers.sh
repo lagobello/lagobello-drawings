@@ -74,10 +74,20 @@ export_layer () {        # $1=SQL where  $2=stem  (no ext)
             -dialect SQLite -where "$WHERE" -t_srs "$SRS_KML" -nln "$STEM" \
             >/dev/null 2>&1
             
-    local STYLE_ID="style-for-${STEM}"
-    sed 's|<Document id="root_doc">|<Document id="root_doc">\n<Style id="'${STYLE_ID}'"><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>|' "$KML_TMP" > "${KML_TMP}.1"
-    sed 's|<Style>.*</Style>|<styleUrl>#'${STYLE_ID}'</styleUrl>|g' "${KML_TMP}.1" > "$KML"
-    rm "$KML_TMP" "${KML_TMP}.1"
+    local STYLE_NAME
+    case "$STEM" in
+      *LOTS*) STYLE_NAME="lotsStyle" ;;
+      *CAMINATA*) STYLE_NAME="caminataStyle" ;;
+      *ROW*) STYLE_NAME="rowStyle" ;;
+      *FOUNTAIN*|*COMMONAREA*) STYLE_NAME="greenFill" ;;
+      *) STYLE_NAME="defaultStyle" ;;
+    esac
+
+    # Add NetworkLink to styles.kml and replace inline styles with styleUrl
+    sed -e 's|<Document id="root_doc">|<Document id="root_doc">\n  <NetworkLink><Link><href>https://lagobello.github.io/lagobello-drawings/web/styles.kml</href></Link></NetworkLink>|' \
+        -e 's|<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>|<styleUrl>#'${STYLE_NAME}'</styleUrl>|g' \
+        "$KML_TMP" > "$KML"
+    rm "$KML_TMP"
 
     echo "     KML      → $(basename "$KML")  ($(wc -c < "$KML") B)"
   else

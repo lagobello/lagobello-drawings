@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document id="root_doc">
-<Style id="style-for-PLAT-HATCH-ROW-S2"><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+  <NetworkLink><Link><href>https://lagobello.github.io/lagobello-drawings/web/styles.kml</href></Link></NetworkLink>
 <Schema name="PLAT_HATCH_ROW_S2" id="PLAT_HATCH_ROW_S2">
 	<SimpleField name="Layer" type="string"></SimpleField>
 	<SimpleField name="PaperSpace" type="int"></SimpleField>
@@ -12,7 +12,7 @@
 </Schema>
 <Folder><name>PLAT_HATCH_ROW_S2</name>
   <Placemark>
-	<styleUrl>#style-for-PLAT-HATCH-ROW-S2</styleUrl>
+	<styleUrl>#rowStyle</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_ROW_S2">
 		<SimpleData name="Layer">PLAT-HATCH-ROW-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>

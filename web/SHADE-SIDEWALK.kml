@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document id="root_doc">
-<Style id="style-for-SHADE-SIDEWALK"><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+  <NetworkLink><Link><href>https://lagobello.github.io/lagobello-drawings/web/styles.kml</href></Link></NetworkLink>
 <Schema name="SHADE_SIDEWALK" id="SHADE_SIDEWALK">
 	<SimpleField name="Layer" type="string"></SimpleField>
 	<SimpleField name="PaperSpace" type="int"></SimpleField>
@@ -12,7 +12,7 @@
 </Schema>
 <Folder><name>SHADE_SIDEWALK</name>
   <Placemark>
-	<styleUrl>#style-for-SHADE-SIDEWALK</styleUrl>
+	<styleUrl>#defaultStyle</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#SHADE_SIDEWALK">
 		<SimpleData name="Layer">SHADE-SIDEWALK</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
