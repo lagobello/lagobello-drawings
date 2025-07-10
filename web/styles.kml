@@ -14,7 +14,7 @@
     </Style>
 
     <Style id="caminataStyle">
-      <LineStyle><color>ff00ff00</color><width>1.5</width></LineStyle>
+      <LineStyle><color>ff000000</color><width>2</width></LineStyle>
       <PolyStyle><color>3000ff00</color><fill>1</fill></PolyStyle>
     </Style>
 
