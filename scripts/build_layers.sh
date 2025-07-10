@@ -100,7 +100,7 @@ export_layer () {        # $1=SQL where  $2=stem  (no ext)
         -e 's|<Polygon>|<Polygon><altitudeMode>relativeToGround</altitudeMode>|g' \
         -e 's|<LineString>|<LineString><altitudeMode>relativeToGround</altitudeMode>|g' \
         -e 's|<Point>|<Point><altitudeMode>relativeToGround</altitudeMode>|g' \
-        -e 's|\([0-9.-]*,[0-9.-]*\)\(,[0-9.-]*\)?\([ <]\)|\1,1\3|g' \
+        -e 's|\([0-9.-]*,[0-9.-]*\)\(,[0-9.-]*\)\?\([ <]\)|\1,1\3|g' \
         -e 's|<kml |<kml xmlns:gx="http://www.google.com/kml/ext/2.2" |' > "$KML"
 
     rm "$KML_TMP"
