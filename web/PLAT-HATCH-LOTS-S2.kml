@@ -12,7 +12,7 @@
 <Folder><name>PLAT_HATCH_LOTS_S2</name>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
-        <gx:drawOrder>1</gx:drawOrder>
+        <gx:drawOrder>100</gx:drawOrder>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S2">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -23,7 +23,7 @@
   </Placemark>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
-        <gx:drawOrder>1</gx:drawOrder>
+        <gx:drawOrder>100</gx:drawOrder>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S2">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -34,7 +34,7 @@
   </Placemark>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
-        <gx:drawOrder>1</gx:drawOrder>
+        <gx:drawOrder>100</gx:drawOrder>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S2">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -45,7 +45,7 @@
   </Placemark>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
-        <gx:drawOrder>1</gx:drawOrder>
+        <gx:drawOrder>100</gx:drawOrder>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S2">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -56,7 +56,7 @@
   </Placemark>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
-        <gx:drawOrder>1</gx:drawOrder>
+        <gx:drawOrder>100</gx:drawOrder>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S2">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -67,7 +67,7 @@
   </Placemark>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
-        <gx:drawOrder>1</gx:drawOrder>
+        <gx:drawOrder>100</gx:drawOrder>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S2">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -78,7 +78,7 @@
   </Placemark>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
-        <gx:drawOrder>1</gx:drawOrder>
+        <gx:drawOrder>100</gx:drawOrder>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S2">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -89,7 +89,7 @@
   </Placemark>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
-        <gx:drawOrder>1</gx:drawOrder>
+        <gx:drawOrder>100</gx:drawOrder>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S2">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -100,7 +100,7 @@
   </Placemark>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
-        <gx:drawOrder>1</gx:drawOrder>
+        <gx:drawOrder>100</gx:drawOrder>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S2">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -111,7 +111,7 @@
   </Placemark>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
-        <gx:drawOrder>1</gx:drawOrder>
+        <gx:drawOrder>100</gx:drawOrder>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S2">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -122,7 +122,7 @@
   </Placemark>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
-        <gx:drawOrder>1</gx:drawOrder>
+        <gx:drawOrder>100</gx:drawOrder>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S2">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -133,7 +133,7 @@
   </Placemark>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
-        <gx:drawOrder>1</gx:drawOrder>
+        <gx:drawOrder>100</gx:drawOrder>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S2">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -144,7 +144,7 @@
   </Placemark>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
-        <gx:drawOrder>1</gx:drawOrder>
+        <gx:drawOrder>100</gx:drawOrder>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S2">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -155,7 +155,7 @@
   </Placemark>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
-        <gx:drawOrder>1</gx:drawOrder>
+        <gx:drawOrder>100</gx:drawOrder>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S2">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -166,7 +166,7 @@
   </Placemark>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
-        <gx:drawOrder>1</gx:drawOrder>
+        <gx:drawOrder>100</gx:drawOrder>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S2">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -177,7 +177,7 @@
   </Placemark>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
-        <gx:drawOrder>1</gx:drawOrder>
+        <gx:drawOrder>100</gx:drawOrder>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S2">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -188,7 +188,7 @@
   </Placemark>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
-        <gx:drawOrder>1</gx:drawOrder>
+        <gx:drawOrder>100</gx:drawOrder>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S2">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -199,7 +199,7 @@
   </Placemark>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
-        <gx:drawOrder>1</gx:drawOrder>
+        <gx:drawOrder>100</gx:drawOrder>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S2">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>

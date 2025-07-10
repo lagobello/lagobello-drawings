@@ -12,7 +12,7 @@
 <Folder><name>PLAT_HATCH_CAMINATA_PROPOSED</name>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#caminataStyle</styleUrl>
-        <gx:drawOrder>1</gx:drawOrder>
+        <gx:drawOrder>100</gx:drawOrder>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_CAMINATA_PROPOSED">
 		<SimpleData name="Layer">PLAT-HATCH-CAMINATA-PROPOSED</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>

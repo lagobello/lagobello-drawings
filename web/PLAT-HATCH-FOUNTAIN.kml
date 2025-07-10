@@ -12,7 +12,7 @@
 <Folder><name>PLAT_HATCH_FOUNTAIN</name>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#greenFill</styleUrl>
-        <gx:drawOrder>1</gx:drawOrder>
+        <gx:drawOrder>100</gx:drawOrder>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_FOUNTAIN">
 		<SimpleData name="Layer">PLAT-HATCH-FOUNTAIN</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
