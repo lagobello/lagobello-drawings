@@ -85,7 +85,7 @@ export_layer () {        # $1=SQL where  $2=stem  (no ext)
     local STYLE_NAME
     case "$STEM" in
       *LOTS*) STYLE_NAME="lotsStyle" ;;
-      *CAMINATA*) STYLE_NAME="caminataStyle" ;;
+      *CAMINATA*) STYLE_NAME="greenFill" ;;
       *ROW*) STYLE_NAME="rowStyle" ;;
       *FOUNTAIN*|*COMMONAREA*) STYLE_NAME="greenFill" ;;
       *) STYLE_NAME="defaultStyle" ;;
@@ -95,7 +95,11 @@ export_layer () {        # $1=SQL where  $2=stem  (no ext)
     # using an absolute URL that includes the style ID.
     sed -e 's|<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>|<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#'${STYLE_NAME}'</styleUrl>|g' \
         -e '/<NetworkLink><Link><href>https:\/\/lagobello.github.io\/lagobello-drawings\/web\/styles.kml<\/href><\/Link><\/NetworkLink>/d' "$KML_TMP" | \
-    sed -e 's|</styleUrl>|</styleUrl>\n        <gx:drawOrder>100</gx:drawOrder>\n        <altitudeMode>clampToGround</altitudeMode>|g' \
+    sed -e '/<gx:drawOrder>/d' \
+        -e '/<altitudeMode>clampToGround<\/altitudeMode>/d' \
+        -e 's|<Polygon>|<Polygon><altitudeMode>relativeToGround</altitudeMode><gx:altitudeOffset>1</gx:altitudeOffset>|g' \
+        -e 's|<LineString>|<LineString><altitudeMode>relativeToGround</altitudeMode><gx:altitudeOffset>1</gx:altitudeOffset>|g' \
+        -e 's|<Point>|<Point><altitudeMode>relativeToGround</altitudeMode><gx:altitudeOffset>1</gx:altitudeOffset>|g' \
         -e 's|<kml |<kml xmlns:gx="http://www.google.com/kml/ext/2.2" |' > "$KML"
 
     rm "$KML_TMP"
