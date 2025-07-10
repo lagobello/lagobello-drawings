@@ -13,6 +13,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#caminataStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_CAMINATA_S1">
 		<SimpleData name="Layer">PLAT-HATCH-CAMINATA-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>

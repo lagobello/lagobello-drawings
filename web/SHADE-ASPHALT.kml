@@ -13,6 +13,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#SHADE_ASPHALT">
 		<SimpleData name="Layer">SHADE-ASPHALT</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>

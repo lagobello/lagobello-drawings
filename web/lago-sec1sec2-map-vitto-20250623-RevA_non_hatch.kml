@@ -13,6 +13,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-BORDER-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -23,6 +24,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -34,6 +36,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-BORDER-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -44,6 +47,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-BORDER-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -54,6 +58,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -65,6 +70,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -75,6 +81,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-BORDER-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -85,6 +92,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -96,6 +104,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-BORDER-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -106,6 +115,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -117,6 +127,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-BORDER-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -127,6 +138,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-BORDER-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -137,6 +149,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -148,6 +161,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-BORDER-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -158,6 +172,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -169,6 +184,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -180,6 +196,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-BORDER-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -190,6 +207,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -200,6 +218,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -210,6 +229,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-BORDER-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -220,6 +240,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-BORDER-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -230,6 +251,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-BORDER-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -240,6 +262,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-BORDER-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -250,6 +273,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-BORDER-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -260,6 +284,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -270,6 +295,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -280,6 +306,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -290,6 +317,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -300,6 +328,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -310,6 +339,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -321,6 +351,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -332,6 +363,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -342,6 +374,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -353,6 +386,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -364,6 +398,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -375,6 +410,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -386,6 +422,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -397,6 +434,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -408,6 +446,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -418,6 +457,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -429,6 +469,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -440,6 +481,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -450,6 +492,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -461,6 +504,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -472,6 +516,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -482,6 +527,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -493,6 +539,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -531,6 +578,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -604,6 +652,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -614,6 +663,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -625,6 +675,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -636,6 +687,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -646,6 +698,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -719,6 +772,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -729,6 +783,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -740,6 +795,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -751,6 +807,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -761,6 +818,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -772,6 +830,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -783,6 +842,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -793,6 +853,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -876,6 +937,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-CL-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -887,6 +949,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-CL-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -898,6 +961,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-CL-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -918,6 +982,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-CL-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -929,6 +994,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-CL-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -967,6 +1033,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-CL-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -978,6 +1045,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-CL-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -1071,6 +1139,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -1081,6 +1150,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -1092,6 +1162,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -1103,6 +1174,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -1114,6 +1186,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -1125,6 +1198,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -1135,6 +1209,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -1146,6 +1221,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -1157,6 +1233,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -1167,6 +1244,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -1178,6 +1256,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -1189,6 +1268,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-CL-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -1200,6 +1280,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -1210,6 +1291,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -1221,6 +1303,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -1286,6 +1369,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -1296,6 +1380,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -1306,6 +1391,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -1316,6 +1402,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -1326,6 +1413,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -1336,6 +1424,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -1346,6 +1435,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -1356,6 +1446,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -1366,6 +1457,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -1377,6 +1469,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -1407,6 +1500,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -1417,6 +1511,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -1428,6 +1523,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -1493,6 +1589,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -1504,6 +1601,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -1515,6 +1613,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -1606,6 +1705,7 @@ L=348.98'
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -1617,6 +1717,7 @@ L=348.98'
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -1647,6 +1748,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -1658,6 +1760,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -1669,6 +1772,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -1738,6 +1842,7 @@ L=35.19'</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -2319,6 +2424,7 @@ L=35.19'</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -2376,6 +2482,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-BORDER-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -2442,6 +2549,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-BORDER-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -2452,6 +2560,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-BORDER-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -2463,6 +2572,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-BORDER-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -2474,6 +2584,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-BORDER-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -2485,6 +2596,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-BORDER-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -2495,6 +2607,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-BORDER-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -2505,6 +2618,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-BORDER-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -2515,6 +2629,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -2526,6 +2641,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-CL-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -2537,6 +2653,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-BORDER-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -2547,6 +2664,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -2558,6 +2676,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -2569,6 +2688,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -2580,6 +2700,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-CL-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -2591,6 +2712,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -2602,6 +2724,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-BORDER-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -2612,6 +2735,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-CL-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -2623,6 +2747,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -2633,6 +2758,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -2644,6 +2770,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -2655,6 +2782,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-BORDER-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -2665,6 +2793,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -2676,6 +2805,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -2687,6 +2817,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -2768,6 +2899,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -2778,6 +2910,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -2788,6 +2921,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -2799,6 +2933,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-CL-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -2810,6 +2945,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-CL-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -2821,6 +2957,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-CL-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -2832,6 +2969,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -2843,6 +2981,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -2854,6 +2993,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -2864,6 +3004,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -2874,6 +3015,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -2884,6 +3026,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-CL-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -2895,6 +3038,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-CL-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -2906,6 +3050,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -2916,6 +3061,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -2926,6 +3072,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -2936,6 +3083,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -2946,6 +3094,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -2956,6 +3105,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -2966,6 +3116,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -2976,6 +3127,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -2986,6 +3138,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -2996,6 +3149,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -3006,6 +3160,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -3016,6 +3171,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -3027,6 +3183,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-CL-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -3038,6 +3195,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-CL-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -3048,6 +3206,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-CL-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -3059,6 +3218,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -3069,6 +3229,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -3079,6 +3240,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -3089,6 +3251,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -3100,6 +3263,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -3110,6 +3274,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -3120,6 +3285,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -3130,6 +3296,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -3141,6 +3308,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -3151,6 +3319,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -3162,6 +3331,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -3172,6 +3342,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -3183,6 +3354,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -3331,6 +3503,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-BORDER-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -3341,6 +3514,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-BORDER-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -3351,6 +3525,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -3380,6 +3555,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -3390,6 +3566,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -3400,6 +3577,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
@@ -3410,6 +3588,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
@@ -3420,6 +3599,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -3430,6 +3610,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -3450,6 +3631,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -3460,6 +3642,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -3470,6 +3653,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
@@ -3480,6 +3664,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
@@ -3490,6 +3675,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -3578,6 +3764,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -3588,6 +3775,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -3598,6 +3786,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
@@ -3608,6 +3797,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
@@ -3618,6 +3808,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -3628,6 +3819,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -3638,6 +3830,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -3648,6 +3841,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
@@ -3658,6 +3852,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
@@ -3668,6 +3863,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -3708,6 +3904,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -3718,6 +3915,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -3728,6 +3926,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
@@ -3738,6 +3937,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
@@ -3748,6 +3948,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -3767,6 +3968,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -3777,6 +3979,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
@@ -3787,6 +3990,7 @@ SURVEYED FOR:</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
@@ -3820,6 +4024,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -3830,6 +4035,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -3840,6 +4046,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
@@ -3850,6 +4057,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
@@ -3860,6 +4068,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -3879,6 +4088,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -3889,6 +4099,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
@@ -3899,6 +4110,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
@@ -3918,6 +4130,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -3928,6 +4141,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
@@ -3938,6 +4152,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
@@ -3957,6 +4172,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
@@ -3967,6 +4183,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
@@ -4005,6 +4222,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-BORDER-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -4069,6 +4287,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -4079,6 +4298,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -4089,6 +4309,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-BORDER-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -4099,6 +4320,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -4109,6 +4331,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-TITLE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -4119,6 +4342,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-TITLE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -4174,6 +4398,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -4184,6 +4409,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -4194,6 +4420,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -4213,6 +4440,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -4223,6 +4451,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -4233,6 +4462,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -4252,6 +4482,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -4262,6 +4493,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -4272,6 +4504,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -4282,6 +4515,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -4292,6 +4526,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-TEXT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
@@ -4311,6 +4546,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -4321,6 +4557,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -4331,6 +4568,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -4341,6 +4579,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -4351,6 +4590,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-TEXT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
@@ -4361,6 +4601,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -4371,6 +4612,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -4381,6 +4623,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -4391,6 +4634,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -4401,6 +4645,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -4411,6 +4656,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -4421,6 +4667,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -4431,6 +4678,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -4441,6 +4689,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -4451,6 +4700,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -4461,6 +4711,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -4471,6 +4722,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -4481,6 +4733,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -4491,6 +4744,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -4501,6 +4755,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -4511,6 +4766,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -4521,6 +4777,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -4531,6 +4788,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-TEXT-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
@@ -4829,6 +5087,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -4839,6 +5098,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -4849,6 +5109,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -4927,6 +5188,7 @@ L=26.82'</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
@@ -4937,6 +5199,7 @@ L=26.82'</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -4947,6 +5210,7 @@ L=26.82'</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -4957,6 +5221,7 @@ L=26.82'</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -4976,6 +5241,7 @@ L=26.82'</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -4986,6 +5252,7 @@ L=26.82'</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -4996,6 +5263,7 @@ L=26.82'</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-ACCESS</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -5108,6 +5376,7 @@ L=73.64'</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -5118,6 +5387,7 @@ L=73.64'</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -5128,6 +5398,7 @@ L=73.64'</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -5138,6 +5409,7 @@ L=73.64'</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -5148,6 +5420,7 @@ L=73.64'</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -5410,6 +5683,7 @@ L=358.59'</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -5420,6 +5694,7 @@ L=358.59'</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -5430,6 +5705,7 @@ L=358.59'</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -5449,6 +5725,7 @@ L=358.59'</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -5459,6 +5736,7 @@ L=358.59'</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -5469,6 +5747,7 @@ L=358.59'</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -5488,6 +5767,7 @@ L=358.59'</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -5498,6 +5778,7 @@ L=358.59'</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -5508,6 +5789,7 @@ L=358.59'</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -5687,6 +5969,7 @@ L=358.59'</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
@@ -5795,6 +6078,7 @@ L=53.15'</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
@@ -5805,6 +6089,7 @@ L=53.15'</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -5815,6 +6100,7 @@ L=53.15'</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -5825,6 +6111,7 @@ L=53.15'</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -5835,6 +6122,7 @@ L=53.15'</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -5845,6 +6133,7 @@ L=53.15'</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -5980,6 +6269,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
@@ -5990,6 +6280,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-BORDER-LEGAL</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
@@ -6033,6 +6324,7 @@ OFFICIAL RECORDS)</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -6080,6 +6372,7 @@ OFFICIAL RECORDS)</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -6150,6 +6443,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -6190,6 +6484,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
@@ -6200,6 +6495,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
@@ -6210,6 +6506,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbCircle:AcDbArc</SimpleData>
@@ -6221,6 +6518,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -6232,6 +6530,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -6243,6 +6542,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -6254,6 +6554,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -6265,6 +6566,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -6275,6 +6577,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -6285,6 +6588,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -6295,6 +6599,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -6305,6 +6610,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -6334,6 +6640,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
@@ -6344,6 +6651,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
@@ -6354,6 +6662,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
@@ -6364,6 +6673,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
@@ -6374,6 +6684,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -6384,6 +6695,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -6394,6 +6706,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -6413,6 +6726,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -6423,6 +6737,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -6433,6 +6748,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -6443,6 +6759,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -6453,6 +6770,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -6463,6 +6781,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -6654,6 +6973,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -6664,6 +6984,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -6674,6 +6995,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -6684,6 +7006,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -6694,6 +7017,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -6704,6 +7028,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -6715,6 +7040,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -6726,6 +7052,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -6737,6 +7064,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -6757,6 +7085,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -6767,6 +7096,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -6777,6 +7107,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -6787,6 +7118,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -6816,6 +7148,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
@@ -6826,6 +7159,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -6836,6 +7170,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -6846,6 +7181,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -6856,6 +7192,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -6866,6 +7203,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -6894,6 +7232,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbPolyline</SimpleData>
@@ -6904,6 +7243,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -6914,6 +7254,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -6924,6 +7265,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -6934,6 +7276,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -6944,6 +7287,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -6963,6 +7307,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -6973,6 +7318,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -6983,6 +7329,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -6993,6 +7340,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -7003,6 +7351,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -7013,6 +7362,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -7032,6 +7382,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -7042,6 +7393,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -7052,6 +7404,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -7062,6 +7415,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -7072,6 +7426,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -7091,6 +7446,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -7101,6 +7457,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -7111,6 +7468,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -7121,6 +7479,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -7131,6 +7490,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -7150,6 +7510,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -7160,6 +7521,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -7170,6 +7532,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -7180,6 +7543,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -7190,6 +7554,7 @@ OUT OF A 213.374 ACRE TRACT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -7210,6 +7575,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -7220,6 +7586,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -7230,6 +7597,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -7240,6 +7608,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -7250,6 +7619,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -7270,6 +7640,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -7280,6 +7651,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -7290,6 +7662,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -7300,6 +7673,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -7310,6 +7684,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -7320,6 +7695,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -7330,6 +7706,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -7340,6 +7717,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -7350,6 +7728,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -7360,6 +7739,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -7379,6 +7759,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -7389,6 +7770,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -7399,6 +7781,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -7409,6 +7792,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbTrace</SimpleData>
@@ -7419,6 +7803,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-DIM-EASEMENT-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -7438,6 +7823,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -7448,6 +7834,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-BORDER-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -7458,6 +7845,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -7468,6 +7856,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S1-PROPOSED</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -7479,6 +7868,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S2</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -7489,6 +7879,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>
@@ -7499,6 +7890,7 @@ EASEMENT</SimpleData>
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#defaultStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#lago_sec1sec2_map_vitto_20250623_RevA_non_hatch">
 		<SimpleData name="Layer">PLAT-LOTLINE-S1</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbLine</SimpleData>

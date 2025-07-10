@@ -13,6 +13,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S3">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S3</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -24,6 +25,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S3">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S3</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -35,6 +37,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S3">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S3</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -46,6 +49,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S3">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S3</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -57,6 +61,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S3">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S3</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -68,6 +73,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S3">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S3</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -79,6 +85,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S3">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S3</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -90,6 +97,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S3">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S3</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -101,6 +109,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S3">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S3</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -112,6 +121,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S3">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S3</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -123,6 +133,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S3">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S3</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -134,6 +145,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S3">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S3</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -145,6 +157,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S3">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S3</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -156,6 +169,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S3">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S3</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -167,6 +181,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S3">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S3</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -178,6 +193,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S3">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S3</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -189,6 +205,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S3">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S3</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -200,6 +217,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S3">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S3</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -211,6 +229,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S3">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S3</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -222,6 +241,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S3">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S3</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -233,6 +253,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S3">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S3</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -244,6 +265,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S3">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S3</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
@@ -255,6 +277,7 @@
   <Placemark>
 	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#lotsStyle</styleUrl>
         <gx:drawOrder>100</gx:drawOrder>
+        <altitudeMode>clampToGround</altitudeMode>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_LOTS_S3">
 		<SimpleData name="Layer">PLAT-HATCH-LOTS-S3</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
