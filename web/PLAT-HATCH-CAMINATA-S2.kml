@@ -18,7 +18,7 @@
 		<SimpleData name="EntityHandle">1142</SimpleData>
 		<SimpleData name="Text">ANSI31</SimpleData>
 	</SchemaData></ExtendedData>
-      <MultiGeometry><Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-97.5509397774426,26.0542023765679 -97.5510347692335,26.0541831950852 -97.5514222712866,26.0515460371259 -97.5513316957636,26.0515351786829 -97.5509397774426,26.0542023765679</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+      <MultiGeometry><Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-97.5509397774426,26.0542023765679,1 -97.5510347692335,26.0541831950852,1 -97.5514222712866,26.0515460371259,1 -97.5513316957636,26.0515351786829,1 -97.5509397774426,26.0542023765679,1</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
 </Folder>
 </Document></kml>
