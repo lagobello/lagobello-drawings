@@ -11,6 +11,7 @@ sudo apt install install gdal-bin python3-gdal git-lfs
 
 Troublehsooting:  
 If you run into the following issue, it is because the repo was cloned without git-lfs. 
-Try deleting and re-cloning after you've install git-lfs
   FAILURE:
     Unable to open datasource `archive/vitto/LagoBello-PLANSC-VITTO-20250702.dxf' with the following drivers.
+After having installed git-lfs try running the following in the repo.
+git lfs pull
