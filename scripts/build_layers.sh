@@ -95,11 +95,14 @@ export_layer () {        # $1=SQL where  $2=stem  (no ext)
     # using an absolute URL that includes the style ID.
     sed -e 's|<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>|<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#'${STYLE_NAME}'</styleUrl>|g' \
         -e '/<NetworkLink><Link><href>https:\/\/lagobello.github.io\/lagobello-drawings\/web\/styles.kml<\/href><\/Link><\/NetworkLink>/d' "$KML_TMP" | \
-    sed -e '/<gx:drawOrder>/d' \
-        -e '/<altitudeMode>clampToGround<\/altitudeMode>/d' \
-        -e 's|<Polygon>|<Polygon><altitudeMode>relativeToGround</altitudeMode><gx:altitudeOffset>1</gx:altitudeOffset>|g' \
-        -e 's|<LineString>|<LineString><altitudeMode>relativeToGround</altitudeMode><gx:altitudeOffset>1</gx:altitudeOffset>|g' \
-        -e 's|<Point>|<Point><altitudeMode>relativeToGround</altitudeMode><gx:altitudeOffset>1</gx:altitudeOffset>|g' \
+    sed -E \
+        -e '/<gx:drawOrder>/d' \
+        -e 's|<gx:altitudeOffset>[^<]*</gx:altitudeOffset>||g' \
+        -e 's|<altitudeMode>clampToGround</altitudeMode>||g' \
+        -e 's|<Polygon>|<Polygon><altitudeMode>relativeToGround</altitudeMode>|g' \
+        -e 's|<LineString>|<LineString><altitudeMode>relativeToGround</altitudeMode>|g' \
+        -e 's|<Point>|<Point><altitudeMode>relativeToGround</altitudeMode>|g' \
+        -e 's|([0-9.-]*,[0-9.-]*)(,[0-9.-]*)?([ <])|\1,1\3|g' \
         -e 's|<kml |<kml xmlns:gx="http://www.google.com/kml/ext/2.2" |' > "$KML"
 
     rm "$KML_TMP"
