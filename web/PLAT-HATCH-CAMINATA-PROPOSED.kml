@@ -11,16 +11,14 @@
 </Schema>
 <Folder><name>PLAT_HATCH_CAMINATA_PROPOSED</name>
   <Placemark>
-	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#caminataStyle</styleUrl>
-        <gx:drawOrder>100</gx:drawOrder>
-        <altitudeMode>clampToGround</altitudeMode>
+	<styleUrl>https://lagobello.github.io/lagobello-drawings/web/styles.kml#greenFill</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#PLAT_HATCH_CAMINATA_PROPOSED">
 		<SimpleData name="Layer">PLAT-HATCH-CAMINATA-PROPOSED</SimpleData>
 		<SimpleData name="SubClasses">AcDbEntity:AcDbHatch</SimpleData>
 		<SimpleData name="EntityHandle">FA0</SimpleData>
 		<SimpleData name="Text">ANSI31</SimpleData>
 	</SchemaData></ExtendedData>
-      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-97.5515221149393,26.0502392371723 -97.5516127141125,26.0502499274781 -97.5517091671739,26.0495934790927 -97.5516276918837,26.0495206962848 -97.5515221149393,26.0502392371723</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+      <MultiGeometry><Polygon><altitudeMode>relativeToGround</altitudeMode><gx:altitudeOffset>1</gx:altitudeOffset><outerBoundaryIs><LinearRing><coordinates>-97.5515221149393,26.0502392371723 -97.5516127141125,26.0502499274781 -97.5517091671739,26.0495934790927 -97.5516276918837,26.0495206962848 -97.5515221149393,26.0502392371723</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
 </Folder>
 </Document></kml>
