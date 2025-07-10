@@ -18,7 +18,7 @@
 		<SimpleData name="EntityHandle">F98</SimpleData>
 		<SimpleData name="Text">ANSI31</SimpleData>
 	</SchemaData></ExtendedData>
-      <MultiGeometry><Polygon><altitudeMode>relativeToGround</altitudeMode><gx:altitudeOffset>2</gx:altitudeOffset><outerBoundaryIs><LinearRing><coordinates>-97.5519706486283,26.0498270625209 -97.5520884343023,26.0497194762305 -97.5516553317603,26.0493325819236 -97.5516276918837,26.0495206962848 -97.5519706486283,26.0498270625209</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+      <MultiGeometry><Polygon><altitudeMode>relativeToGround</altitudeMode><gx:altitudeOffset>1</gx:altitudeOffset><outerBoundaryIs><LinearRing><coordinates>-97.5519706486283,26.0498270625209 -97.5520884343023,26.0497194762305 -97.5516553317603,26.0493325819236 -97.5516276918837,26.0495206962848 -97.5519706486283,26.0498270625209</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
 </Folder>
 </Document></kml>
