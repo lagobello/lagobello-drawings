@@ -97,9 +97,9 @@ export_layer () {        # $1=SQL where  $2=stem  (no ext)
         -e '/<NetworkLink><Link><href>https:\/\/lagobello.github.io\/lagobello-drawings\/web\/styles.kml<\/href><\/Link><\/NetworkLink>/d' "$KML_TMP" | \
     sed -e '/<gx:drawOrder>/d' \
         -e '/<altitudeMode>clampToGround<\/altitudeMode>/d' \
-        -e 's|<Polygon>|<Polygon><altitudeMode>relativeToGround</altitudeMode><gx:altitudeOffset>1</gx:altitudeOffset>|g' \
-        -e 's|<LineString>|<LineString><altitudeMode>relativeToGround</altitudeMode><gx:altitudeOffset>1</gx:altitudeOffset>|g' \
-        -e 's|<Point>|<Point><altitudeMode>relativeToGround</altitudeMode><gx:altitudeOffset>1</gx:altitudeOffset>|g' \
+        -e 's|<Polygon>|<Polygon><altitudeMode>relativeToGround</altitudeMode><gx:altitudeOffset>2</gx:altitudeOffset>|g' \
+        -e 's|<LineString>|<LineString><altitudeMode>relativeToGround</altitudeMode><gx:altitudeOffset>2</gx:altitudeOffset>|g' \
+        -e 's|<Point>|<Point><altitudeMode>relativeToGround</altitudeMode><gx:altitudeOffset2</gx:altitudeOffset>|g' \
         -e 's|<kml |<kml xmlns:gx="http://www.google.com/kml/ext/2.2" |' > "$KML"
 
     rm "$KML_TMP"
